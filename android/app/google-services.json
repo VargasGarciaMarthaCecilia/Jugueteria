@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177374651093",
+    "project_id": "cejev-1007f",
+    "storage_bucket": "cejev-1007f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177374651093:android:33a1d7928680889130b85c",
+        "android_client_info": {
+          "package_name": "com.example.cejev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177374651093-7tdtg5a0i9l29puta98e6na5n2h8knkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cejev",
+            "certificate_hash": "fdfde5ad43002deee3eb5281b588b7b6ca1c8428"
+          }
+        },
+        {
+          "client_id": "177374651093-a8bep7lo7gp9acm7906ivro0d301rvnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDToaUDWHYp1gTRlbB57huewMPpGYdib0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177374651093-a8bep7lo7gp9acm7906ivro0d301rvnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
